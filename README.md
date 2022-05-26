@@ -4,7 +4,7 @@ This gem brings some useful Excel formulas to Ruby. For now, it just has
 financial formulas, but could have more (like statistical formulas) in the future.
 
 [![Gem Version](https://badge.fury.io/rb/exonio.svg)](https://badge.fury.io/rb/exonio)
-![Build Status](https://github.com/gururuby/exonio/actions/workflows/release/badge.svg)
+[![Release](https://github.com/gururuby/exonio/actions/workflows/release.yml/badge.svg)](https://github.com/gururuby/exonio/actions/workflows/release.yml)
 
 ## Installation
 
